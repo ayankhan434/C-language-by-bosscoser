@@ -14,6 +14,7 @@ int main() {
         p++;
     }
     cout <<"this is do while loop program by ayan khan:"<<endl;
+    // end of loop
     
     return 0;
 }
