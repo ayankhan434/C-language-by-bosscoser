@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int sum(int a, int b)
+int sum(int a, int b)//a and b are the parameters
 {
     int sum = a + b;
     return sum;

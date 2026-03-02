@@ -1,12 +1,14 @@
 #include <iostream>
 using namespace std;
 
-void sayhello()
+void sayhello() //declaration
+
 {
-    cout << "hello broo";
+    cout << "hello broo"; //definition(body of fxn)
 }
 int main()
 {
     sayhello(); // fxn call
+    
     return 0;
 }
