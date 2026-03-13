@@ -21,10 +21,11 @@ int binsearch(int *arr, int n, int key)
         }
     }
 
-    return -1;
+    return -1; // when key will not be found in array
 }
 int main()
 {
+
     int arr[] = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
     int n = sizeof(arr) / sizeof(int);
 
